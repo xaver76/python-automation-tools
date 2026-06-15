@@ -120,7 +120,7 @@ time-1440-helper/
 Clonar repositorio:
 
 ```bash
-git clone https://github.com/TU_USUARIO/python-automation-tools.git
+git clone https://github.com/xaver76/python-automation-tools.git
 ```
 
 Ingresar al directorio:
