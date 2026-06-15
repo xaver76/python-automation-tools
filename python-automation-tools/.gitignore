@@ -6,13 +6,19 @@ __pycache__/
 venv/
 .env/
 
-*.xlsx
-*.csv
 *.log
-*.zip
+*.tmp
 *.bak
-*.sql
 
 output/
 salida/
 logs/
+
+*.xlsx
+*.csv
+*.zip
+*.7z
+*.rar
+
+.vscode/
+.idea/
